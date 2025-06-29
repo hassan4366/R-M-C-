@@ -1,1 +1,1 @@
-<h1>C++-Course</h1>
+<h1>C++Course</h1>
